@@ -1,4 +1,3 @@
-PRODIGY_CS_02
 PIXEL MANIPULATION FOR IMAGE ENCRYPTION
 
 Pixel manipulation for image encryption involves altering the pixel values of an image in a controlled manner to encode secret information or to obscure the original content. 
